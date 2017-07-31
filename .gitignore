@@ -14,6 +14,10 @@ TestResults
 *.user
 *.sln.docstates
 
+# Visual Studio spam
+.vs
+*.orig
+
 # Build results
 artifacts/
 Builds/
