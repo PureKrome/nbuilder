@@ -2,7 +2,6 @@
 [Bb]in/
 [Oo]bj/
 [Oo]bj-NetStandard*
-/tests/
 # mstest test results
 TestResults
 
